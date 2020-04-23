@@ -34,6 +34,9 @@ INSTALLED_APPS = [
     'django.contrib.contenttypes',
     'django.contrib.sessions',
     'django.contrib.staticfiles',
+
+    # 用户自定义模块
+    'user',
 ]
 
 MIDDLEWARE = [
